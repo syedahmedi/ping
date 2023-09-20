@@ -1,3 +1,8 @@
 first commit 
+<<<<<<< HEAD
 second commit 
 3rd commit 
+=======
+second commit
+third comit  
+>>>>>>> dev
